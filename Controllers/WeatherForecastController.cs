@@ -13,7 +13,7 @@ namespace AzureAPICIDIDemo_David.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing-1", "Bracing-1", "Chilly", "Cool", "Mild-1", "Warm-1", "Balmy-1", "Hot-1", "Sweltering-1", "Scorching-1"
+            "Freezing-1-2", "Bracing-1-2", "Chilly", "Cool-1-2", "Mild-1-2", "Warm-1", "Balmy-1-2", "Hot-1-2", "Sweltering-1-2", "Scorching-1-2"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
